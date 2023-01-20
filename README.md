@@ -1,4 +1,4 @@
-# getxproject
+# Notes App with sqflite
 
 A new Flutter project.
 
